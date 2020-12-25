@@ -11,9 +11,9 @@ namespace ConsoleApp1
             double db = 1;
 
             i16 = 132;
-            i16 = db;
+            i16 = db; //не разрешил
             i32 = 2;
-            i32 = db;
+            i32 = db; //не разрешил
             db = 116; 
             db = i32;
         }
